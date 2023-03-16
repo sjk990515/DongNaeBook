@@ -1,7 +1,6 @@
 # DongNaeBook-Project 📱
 React-Native를 사용해서 만든
-IOS용 도서리뷰 어플리케이션
-시연영상 (https://www.youtube.com/watch?v=wIQkvdn_nmM)
+IOS용 도서리뷰 어플리케이션 / 시연영상 (https://www.youtube.com/watch?v=wIQkvdn_nmM)
 </br>
 
 ## 프로젝트 실행방법 🔥
